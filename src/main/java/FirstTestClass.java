@@ -20,4 +20,20 @@ public class FirstTestClass {
     public void squashCommit3() {
         System.out.println("Squash commit3");
     }
+
+    public void squashCommit4() {
+        System.out.println("Squash commit4");
+    }
+
+    public void squashCommit5() {
+        System.out.println("Squash commit4");
+    }
+
+    public void squashCommit6() {
+        System.out.println("Squash commit4");
+    }
+
+    public void squashCommit7() {
+        System.out.println("Squash commit4");
+    }
 }
