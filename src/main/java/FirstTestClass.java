@@ -48,4 +48,8 @@ public class FirstTestClass {
     public void squashCommit10() {
         System.out.println("Squash commit4");
     }
+
+    public void squashCommit11() {
+        System.out.println("Squash commit11");
+    }
 }
